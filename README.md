@@ -1,4 +1,4 @@
-# Taco Bell Clone 🌮
+# Taco Bell Clone 
 
 A responsive Taco Bell website clone built with HTML and CSS.
 
